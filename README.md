@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Surhud Khare, a Software Engineer / Data Scientist.
+
+Contact - surhudk@gmail.com
+Linkedin - https://linkedin.com/in/surhud-khare
 
 <!--
 **surhudkhare/surhudkhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
