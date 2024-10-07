@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Surhud Khare, a Software Engineer / Data Scientist.
+I'm Surhud Khare, a Data Scientist / Software Engineer
 
 Contact - surhudk@gmail.com  
 Linkedin - https://linkedin.com/in/surhud-khare
